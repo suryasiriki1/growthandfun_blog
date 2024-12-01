@@ -1,0 +1,12 @@
+[submodule "growthandfun/growthandfun.github.io"]
+	path = growthandfun/growthandfun.github.io
+	url = git@github.com:suryasiriki1/growthandfun.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/suryasiriki1/growthandfun.github.io
+	branch = main
+[submodule "growthandfun/public"]
+	path = growthandfun/public
+	url = https://github.com/suryasiriki1/growthandfun
+	branch = main
